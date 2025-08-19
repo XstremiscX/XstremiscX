@@ -21,7 +21,7 @@ I'm a passionate software development student specializing in backend developmen
 - Exploring advanced database optimization with PostgreSQL
 
 ## 📬 Let's Connect!
-- 💼 Hire me on [Fiverr](https://www.fiverr.com/your-profile) for APIs, scripts, or database setup
+- 💼 Hire me on [Fiverr](https://www.fiverr.com/users/jose_gallego_ca) for APIs, scripts, or database setup
 - 📧 Email: [josecarva16@gmail.com]
 
 *Looking for a quick backend solution or a simple script? Message me on Fiverr, and let's make it happen!*
