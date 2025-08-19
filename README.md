@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Jose!
 
-<!--
-**XstremiscX/XstremiscX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software development student specializing in backend development with NestJS and learning frontend with Angular. I build reliable REST APIs, automation scripts, and databases, delivering clean and efficient code. Currently, I'm working on an e-commerce web project (50% complete, with backend at 90%).
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔧 **Skills**: JavaScript, TypeScript, PHP, HTML, CSS, NestJS, React, Angular (learning), MySQL, PostgreSQL, T-SQL
+- 🌟 **Current Project**: Building an e-commerce platform with NestJS and MySQL (backend 90% done, frontend in progress with Angular)
+- 📫 **Contact**: Reach me on Fiverr [insert Fiverr link] or email [josecarva16@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 My Projects
+- **[E-commerce Platform Backend](https://github.com/XstremiscX/TechnovaBackend.git)**: A web app for online shopping with a robust NestJS backend (work in progress).
+- **[E-commerce Platform Backend](https://github.com/XstremiscX/TechnovaFrontend.git)**: A web app for online shopping with a robust Angular frontend (work in progress).
+- **More projects**: Check my pinned repositories below or explore my GitHub!
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=XstremiscX&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XstremiscX&layout=compact&theme=radical&hide_border=true)
+
+## 🌱 What I'm Learning
+- Mastering Angular for dynamic frontends
+- Exploring advanced database optimization with PostgreSQL
+
+## 📬 Let's Connect!
+- 💼 Hire me on [Fiverr](https://www.fiverr.com/your-profile) for APIs, scripts, or database setup
+- 📧 Email: [josecarva16@gmail.com]
+
+*Looking for a quick backend solution or a simple script? Message me on Fiverr, and let's make it happen!*
