@@ -9,7 +9,7 @@ I'm a passionate software development student specializing in backend developmen
 
 ## 💻 My Projects
 - **[E-commerce Platform Backend](https://github.com/XstremiscX/TechnovaBackend.git)**: A web app for online shopping with a robust NestJS backend (work in progress).
-- **[E-commerce Platform Backend](https://github.com/XstremiscX/TechnovaFrontend.git)**: A web app for online shopping with a robust Angular frontend (work in progress).
+- **[E-commerce Platform Frontend](https://github.com/XstremiscX/TechnovaFrontend.git)**: A web app for online shopping with a robust Angular frontend (work in progress).
 - **More projects**: Check my pinned repositories below or explore my GitHub!
 
 ## 📊 GitHub Stats
