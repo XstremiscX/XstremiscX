@@ -4,7 +4,7 @@ I'm a passionate software development student specializing in backend developmen
 
 ## 🚀 About Me
 - 🔧 **Skills**: JavaScript, TypeScript, PHP, HTML, CSS, NestJS, React, Angular (learning), MySQL, PostgreSQL, T-SQL
-- 🌟 **Current Project**: Building an e-commerce platform with NestJS and MySQL (backend 90% done, frontend in progress with Angular)
+- 🌟 **Current Project**: Building an e-commerce platform with NestJS, Angular and PostgreSQL (backend in progress with NestJS, frontend in progress with Angular)
 - 📫 **Contact**: Reach me on Fiverr [insert Fiverr link] or email [josecarva16@gmail.com]
 
 ## 💻 My Projects
@@ -20,6 +20,7 @@ I'm a passionate software development student specializing in backend developmen
 ## 🌱 What I'm Learning
 - Mastering Angular for dynamic frontends
 - Exploring advanced database optimization with PostgreSQL
+- Create backend with NestJS and best practices, design patterns.
 
 ## 📬 Let's Connect!
 - 💼 Hire me on [Fiverr](https://www.fiverr.com/users/jose_gallego_ca) for APIs, scripts, or database setup
