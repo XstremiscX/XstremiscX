@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jose!
 
-I'm a passionate software development student specializing in backend development with NestJS and learning frontend with Angular. I build reliable REST APIs, automation scripts, and databases, delivering clean and efficient code. Currently, I'm working on an e-commerce web project (50% complete, with backend at 90%).
+I'm a passionate software development student specializing in backend development with NestJS and learning frontend with Angular. I build reliable REST APIs, automation scripts, and databases, delivering clean and efficient code. Currently, I'm working on an e-commerce web project.
 
 ## 🚀 About Me
 - 🔧 **Skills**: JavaScript, TypeScript, PHP, HTML, CSS, NestJS, React, Angular (learning), MySQL, PostgreSQL, T-SQL
@@ -8,8 +8,9 @@ I'm a passionate software development student specializing in backend developmen
 - 📫 **Contact**: Reach me on Fiverr [insert Fiverr link] or email [josecarva16@gmail.com]
 
 ## 💻 My Projects
-- **[E-commerce Platform Backend](https://github.com/XstremiscX/TechnovaBackend.git)**: A web app for online shopping with a robust NestJS backend (work in progress).
-- **[E-commerce Platform Frontend](https://github.com/XstremiscX/TechnovaFrontend.git)**: A web app for online shopping with a robust Angular frontend (work in progress).
+- **[E-commerce Platform Backend](https://github.com/XstremiscX/TechnovaBackend.git)**: A web app for online shopping with a robust NestJS backend(stand by).
+- **[E-commerce Platform Frontend](https://github.com/XstremiscX/TechnovaFrontend.git)**: A web app for online shopping with a robust Angular frontend(stand by).
+- **[New E-commerce RESTful API management](https://github.com/XstremiscX/technova-api-managment)**: RESTful API with CQRS, DRY, KISS, SOLID principles, Repository Pattern, BUILDER Pattern, FACTORY Pattern, TypeORM and EDD.
 - **More projects**: Check my pinned repositories below or explore my GitHub!
 
 ## 📊 GitHub Stats
